@@ -19,13 +19,13 @@ The official code for ["Wearing face mask detection using deep learning through 
 ## Results
 Performance comparision on the dataset is as the following:
 
-# YOLOv4-tiny Result
+### YOLOv4-tiny Result
 ![yv4](https://github.com/SoheilaHatami/Face-Mask-Detection/assets/74190994/0da43764-9dd0-4150-a4df-033bdbec9148)
 
-# SSD Result
+### SSD Result
 ![mobilnet](https://github.com/SoheilaHatami/Face-Mask-Detection/assets/74190994/dafe1d5a-30ff-4470-b0d9-b584b031e813)
 
-# Final Result
+### Final Result
 ![mAP](https://github.com/SoheilaHatami/Face-Mask-Detection/assets/74190994/93107ee7-acaf-4ea3-be21-bfd5ba807409)
 
 
