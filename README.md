@@ -26,9 +26,8 @@ Performance comparision on the dataset is as the following:
 ![mobilnet](https://github.com/SoheilaHatami/Face-Mask-Detection/assets/74190994/dafe1d5a-30ff-4470-b0d9-b584b031e813)
 
 ## Final Result
-<p align="center">
 ![mAP](https://github.com/SoheilaHatami/Face-Mask-Detection/assets/74190994/93107ee7-acaf-4ea3-be21-bfd5ba807409)
-</p>
+
 
 ## Citation
 ```
